@@ -15,7 +15,7 @@ This mod requires [Content Patcher](https://www.nexusmods.com/stardewvalley/mods
 
 You can choose which version of each character you would like to use in the config, as well as disable any characters that you may want to use another mod for.
 
-For more detailed installation instructions, check out the readme on our wiki.
+For more detailed installation & configuration instructions, check out our [website](https://diversestardewvalley.weebly.com/configuration.html).
 
 If you are updating DSV, delete any previous files from your Mods folder before moving the new files.
 
